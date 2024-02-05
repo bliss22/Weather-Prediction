@@ -15,15 +15,17 @@ git clone https://github.com/your-username/weather-prediction-naive-bayes.git
 cd weather-prediction-naive-bayes
 
 
-Copy code
-python weather_prediction.py
+
 Model Details
 The model uses the Naive Bayes classification algorithm to predict weather conditions. The dataset used for training and testing is also included,it is also available in Kaggle.
 
 File Structure
 weather.ipynb: Main script to run the Naive Bayes weather prediction model.
+
 data: Directory containing the dataset used for training and testing.
+
 requirements.txt: List of Python packages required to run the code.
+
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
